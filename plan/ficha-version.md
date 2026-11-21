@@ -32,9 +32,9 @@
 
 | Pregunta | Respuesta | Enlace |
 |---|---|---|
-| Versión elegida y fecha de lanzamiento | Fedora [versión, ej: 43] | https://hub.docker.com/_/fedora |
-| Hasta cuándo recibe actualizaciones de seguridad | [fecha aproximada] | https://fedoraproject.org/wiki/Releases |
-| Requisitos de hardware y si funciona en VirtualBox | N/A (es imagen de contenedor) | https://hub.docker.com/_/fedora |
-| ¿El instalador permite particionado manual? | N/A (no aplica a contenedor) | — |
-| ¿Existe guía oficial para instalar Docker Engine? | Sí | https://docs.docker.com/engine/install/fedora/ |
-| ¿Existe la imagen base del Dockerfile para esa versión? | Sí, `fedora:latest` | https://hub.docker.com/_/fedora |
+| Versión elegida y fecha de lanzamiento | Fedora 45, lanzada el 3 de noviembre de 2026 | https://hub.docker.com/_/fedora |
+| Hasta cuándo recibe actualizaciones de seguridad | Hasta el 8 de diciembre de 2027 | https://endoflife.date/fedora |
+| Requisitos de hardware y si funciona en VirtualBox | N/A (es imagen de contenedor, no requiere VM; ocupa 68.6 MB) | https://hub.docker.com/_/fedora |
+| ¿El instalador permite particionado manual? | N/A (no aplica a contenedores) | https://hub.docker.com/_/fedora |
+| ¿Existe guía oficial para instalar Docker Engine? | Sí, Docker soporta oficialmente Fedora 45 | https://docs.docker.com/engine/install/fedora/ |
+| ¿Existe la imagen base del Dockerfile para esa versión? | Sí, `fedora:latest` apunta a la última versión estable (Fedora 45) | https://hub.docker.com/_/fedora |
