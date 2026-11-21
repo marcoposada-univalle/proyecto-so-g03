@@ -19,12 +19,12 @@
 
 | Pregunta | Respuesta | Enlace |
 |---|---|---|
-| Versión elegida y fecha de lanzamiento | Ubuntu Server [versión LTS, ej: 24.04 LTS], lanzada el [fecha] | https://ubuntu.com/download/server |
-| Hasta cuándo recibe actualizaciones de seguridad | [fecha, ej: 5 años para LTS] | https://ubuntu.com/about/release-cycle |
-| Requisitos de hardware y si funciona en VirtualBox | [RAM, disco, CPU] | https://ubuntu.com/server/docs |
-| ¿El instalador permite particionado manual? | Sí, Subiquity → "Manual" | https://ubuntu.com/server/docs |
+| Versión elegida y fecha de lanzamiento | Ubuntu Server 26.04 LTS (Resolute Raccoon), lanzada en abril de 2026 | https://ubuntu.com/about/release-cycle |
+| Hasta cuándo recibe actualizaciones de seguridad | Hasta mayo de 2031 (soporte estándar) | https://ubuntu.com/about/release-cycle |
+| Requisitos de hardware y si funciona en VirtualBox | RAM mínima 1.5 GB (sugerido 3 GB), disco mínimo 5 GB (sugerido 25 GB). Funciona en VirtualBox. | https://ubuntu.com/server/docs/reference/installation/system-requirements/ |
+| ¿El instalador permite particionado manual? | Sí, Subiquity ofrece "Custom storage layout" (diseño de almacenamiento personalizado) | https://canonical-subiquity.readthedocs-hosted.com/en/latest/howto/configure-storage.html |
 | ¿Existe guía oficial para instalar Docker Engine? | Sí | https://docs.docker.com/engine/install/ubuntu/ |
-| ¿Existe la imagen base del Dockerfile para esa versión? | Sí, `ubuntu:latest` | https://hub.docker.com/_/ubuntu |
+| ¿Existe la imagen base del Dockerfile para esa versión? | Sí, `ubuntu:latest` está disponible en Docker Hub | https://hub.docker.com/_/ubuntu |
 
 ---
 
