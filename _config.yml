@@ -2,3 +2,6 @@ title: Proyecto Final - Sistemas Operativos
 description: Universidad del Valle - Tecnología en Desarrollo de Software - Semestre 2026-2 - Grupo 03
 theme: jekyll-theme-cayman
 lang: es
+markdown: kramdown
+kramdown:
+  input: GFM
