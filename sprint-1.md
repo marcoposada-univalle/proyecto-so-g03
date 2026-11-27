@@ -68,7 +68,7 @@ Las dos VMs se ven entre sí a través de la red Solo-Anfitrión.
 
 **Captura de Red (desde la VM Gráfica):**
 
-Se muestra el comando `ip a` y el ping exitoso hacia la IP de la consola.
+Se muestra el comando `ip a` y el ping exitoso hacia la IP de la consola (192.168.56.101), con cero paquetes perdidos.
 
 ![Red Gráfica](img/s1_red_grafica.png)
 
