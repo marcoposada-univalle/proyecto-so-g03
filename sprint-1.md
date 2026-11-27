@@ -74,7 +74,7 @@ Se muestra el comando `ip a` y el ping exitoso hacia la IP de la consola (192.16
 
 **Captura de Red (desde la VM Consola):**
 
-Se muestra el comando `ip a` y el ping exitoso hacia la IP de la gráfica.
+Se muestra el comando `ip a` y el ping exitoso hacia la IP de la gráfica (192.168.56.102), con cero paquetes perdidos..
 
 ![Red Consola](img/s1_red_consola.png)
 
