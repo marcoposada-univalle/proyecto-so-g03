@@ -122,4 +122,4 @@ El código del Grupo 03 es **YN03-3YXM**. Se guardó en el archivo `~/codigo_spr
 
 ## Video del Sprint 1
 
-[Ver video del Sprint 1 en YouTube](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE)
+[Ver video del Sprint 1 en YouTube](https://youtu.be/lr9RozEJjYA)
